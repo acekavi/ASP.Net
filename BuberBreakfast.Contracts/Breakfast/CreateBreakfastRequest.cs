@@ -7,5 +7,5 @@ public record CreateBreakfastRequest
     DateTime CreatedAt,
     DateTime EndedAt,
     List<string> SavoryItems,
-    List<string> SweetItems,
+    List<string> SweetItems
 );
