@@ -30,7 +30,7 @@ To get started with this project, you will need to have the following prerequisi
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/BuberBreakfast.git
+   git clone https://github.com/yourusername/ASP.Net.git
    ```
 2. Navigate to the project directory:
    ```sh
